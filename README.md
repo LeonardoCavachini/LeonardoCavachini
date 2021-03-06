@@ -52,6 +52,6 @@
 
 ##### FOLLOW ME ON
 
-<img href="www.linkedin.com/in/leonardo-cavachini" target="_blank" src="./img/linkedin.svg" width="140" height="35" style="margin: 10px"/>
+<img href="www.linkedin.com/in/leonardo-cavachini" target="_blank" src="./img/linkedin.png" width="140" height="35" style="margin: 10px"/>
 
 </br></br>
